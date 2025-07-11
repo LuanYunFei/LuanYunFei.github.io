@@ -36,7 +36,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=XPg3GF8AAAAJ&view_op=list_works&gmla=AH8HC4x_rK_RbCeRjN-md27aa39vvhhnl6i5h4oZ-sFEY2yf6ujcCdD9AV062NSCz-VvQgoJyFzfor_I6O-ZeywkLrYfZv655SuuueP58J4"
   impactstory      : # URL
-  orcid            : "0009-0004-9810-6272"
+  orcid            : # "0009-0004-9810-6272"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -46,13 +46,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/LuanYunFei"
+  github           : "LuanYunFei"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
